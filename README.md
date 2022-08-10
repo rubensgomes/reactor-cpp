@@ -1,6 +1,7 @@
 # Justification for this project
 
 NOTE:  This code is not fully tested, and should be considered under  development code.
+The source code that is provided are  mainly used for demonostrations and learning purposes only.
 
 This project contains the C++ source code of an implemenation of the reactor/acceptor
 design pattern. The reactor/acceptor design pattern is commonly used for network
