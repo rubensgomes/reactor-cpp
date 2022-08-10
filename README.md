@@ -1,4 +1,4 @@
-# misc-cpp-projs/reactor
+# Justification for this project
 
 NOTE:  This code is not fully tested, and should be considered under  development code.
 
@@ -7,7 +7,7 @@ design pattern. The reactor/acceptor design pattern is commonly used for network
 communication applications that rely on sockets.  I wrote the initial reactor/acceptor
 management design in Java back 1999.  The link to that source code can be found below at:
 
-[Java Reactor Source Code] ( https://github.com/rubensgomes/reactor )
+[Java Reactor Source Code] (https://github.com/rubensgomes/socket-reactor-java)
 
 ## Environment
 
